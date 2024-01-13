@@ -1,1 +1,2 @@
-have
+- 2-4 represenatative examples with code and graphs
+- 2-5 bullet points (not code) observations (what did you see?), what surprised you?, etc.
